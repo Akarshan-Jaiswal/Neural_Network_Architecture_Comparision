@@ -7,15 +7,13 @@ with respect to Mathematical equations and problems ranging from a simple straig
 Some examples of Mathematical equations:-
 1) a+b
 2) a!
-:.....................:
-n) ∫a²cos(a)
-n+1) and many more.
+3) ∫a²cos(a)
+4) and many more.
 
 Some examples of Neural Network orientations/architectures:-
 1) Perceptron
 2) Feed Forward Neural networks
-:.....................:
-n) Convolutional neural networks
-n+1) and many more.
+3) Convolutional neural networks
+4) and many more.
 
 Then doing the comparitive study on how different architectures react with these problems and which architectures are better in general for solving such problems.
