@@ -1,6 +1,11 @@
-# Neural_Network_Architecture_Comparision
+# Title: Evaluation and Comparison of Neural Network Architectures for Evaluating Linear and Non-Linear Mathematical Models
 
-## Project AIM
+**Abstract**
+TODO
+
+## Overview
+
+**Aims**
 The following projects aims at implementation and training of different orientations and types of Neural Networks 
 with respect to Mathematical equations and problems ranging from a simple straight forward equation to a bit complex equations in nature too.
 
