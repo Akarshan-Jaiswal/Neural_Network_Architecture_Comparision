@@ -1,0 +1,2 @@
+Model type,dataset,Accuracy,MSE,MAE,RMSE,F1 Score,Training Time,Inference Time
+perceptron,multiplication_dataset,0.0,2.945513844257593e+16,127083527.9349607,171624993.64188167,0.0,237.17753338813782,0.14948725700378418
