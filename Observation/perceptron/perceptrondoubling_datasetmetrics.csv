@@ -1,0 +1,2 @@
+Accuracy,MSE,MAE,RMSE,F1 Score,Training Time,Inference Time,Model type,dataset
+1.0,0.012357727905259502,0.11110236239805818,0.1111653179065283,1.0,21.08300805091858,0.1001291275024414,perceptron,doubling_dataset
