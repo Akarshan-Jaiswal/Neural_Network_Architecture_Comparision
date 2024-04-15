@@ -1,0 +1,2 @@
+Accuracy,MSE,MAE,RMSE,F1 Score,Training Time,Inference Time,Model type,dataset
+0.49725,0.2504142251045621,0.500054903574288,0.5004140536641254,0.49725,28.407610416412354,0.1367204189300537,perceptron,exponential_distribution_dataset
