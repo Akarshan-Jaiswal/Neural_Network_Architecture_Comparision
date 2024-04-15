@@ -1,0 +1,2 @@
+Model type,dataset,Accuracy,MSE,MAE,RMSE,F1 Score,Training Time,Inference Time
+perceptron,normal_distribution_dataset,0.4995,0.2500066994866024,0.4999477005377412,0.5000066994417199,0.4995,30.351420402526855,0.1191561222076416

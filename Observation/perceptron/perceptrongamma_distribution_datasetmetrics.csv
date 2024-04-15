@@ -1,0 +1,2 @@
+Accuracy,MSE,MAE,RMSE,F1 Score,Training Time,Inference Time,Model type,dataset
+0.4995,0.25006337205786994,0.500010541446507,0.5000633680423612,0.4995,28.468053340911865,0.12607812881469727,perceptron,gamma_distribution_dataset
