@@ -1,0 +1,2 @@
+Accuracy,MSE,MAE,RMSE,F1 Score,Training Time,Inference Time,Model type,dataset
+0.494,0.25026959266040605,0.5001125517264009,0.5002695200193652,0.494,24.904460906982422,0.11502861976623535,multi_layer_perceptron,poisson_distribution_dataset
