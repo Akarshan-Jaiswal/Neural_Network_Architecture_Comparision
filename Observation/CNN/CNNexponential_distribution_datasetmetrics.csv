@@ -1,0 +1,2 @@
+Accuracy,MSE,MAE,RMSE,F1 Score,Training Time,Inference Time,Model type,dataset
+0.5035,0.2501892923120393,0.4998979791998863,0.5001892564940188,0.5035,13.124757289886475,0.11324644088745117,CNN,exponential_distribution_dataset

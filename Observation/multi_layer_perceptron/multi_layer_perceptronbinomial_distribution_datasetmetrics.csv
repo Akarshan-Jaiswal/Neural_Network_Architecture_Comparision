@@ -1,0 +1,2 @@
+Accuracy,MSE,MAE,RMSE,F1 Score,Training Time,Inference Time,Model type,dataset
+0.48975,0.25026003927588747,0.5001864445507527,0.5002599716906075,0.48975,26.243717193603516,0.22165751457214355,multi_layer_perceptron,binomial_distribution_dataset
